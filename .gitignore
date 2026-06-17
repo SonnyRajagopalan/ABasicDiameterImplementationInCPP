@@ -1,0 +1,43 @@
+# Committed binaries
+/server
+/testServer
+/oneShotTimerTest
+/periodicTimerTest
+/timerAccuracyTest
+/cerCeaTest
+/avpMixTest
+/groupedAvpTest
+
+# Object files
+*.o
+*.P
+*.depends
+
+# Editor backups
+*~
+
+# Build artifacts
+*.tgz
+
+# Doxygen
+/docs/
+
+# Knowledge graph artifact
+.codebase-memory/graph.db.zst
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
