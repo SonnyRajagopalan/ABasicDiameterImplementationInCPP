@@ -34,9 +34,6 @@ Result DiameterServer::initialize ()
 
 Result DiameterServer::run ()
 {
-  /**
-     Will never really execute this bit of code. Exists for testing only.
-  */
   try
     {
       while (true)

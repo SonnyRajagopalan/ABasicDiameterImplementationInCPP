@@ -11,7 +11,6 @@
   Include all the header files for all objects that
   are being stored in shared memory here.
 */
-#include "test/PooledObject.h"
 #define MAX_NUMBER_OF_POOLS 100
 
 /**
